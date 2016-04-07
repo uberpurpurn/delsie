@@ -1,6 +1,0 @@
-Dave's Text
-blah
-asdf
-branch foo
-
-this is a change on master that isn't on dave-branch
